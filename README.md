@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi and welcome to my GitHub! 👋
 
-<!--
-**Umi-svg/Umi-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Oumi. I’m a former Sales Rep turned Analyst, skilled in SQL, Python, and data visualization, I transform data into meaningful business insights. With a background business development, I bring a unique perspective on how data drives growth and strategy.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔢 Databases: SQL, MySQL, Relational databases, BigQuery
+
+📊 Data Visualization: Google Spreadsheets, Dashboards, Data storytelling, Data presenting, PowerPoint, Tableau
+
+📶 Analytical Methods: Data cleaning, Cohort analysis, Retention analysis, Churn analysis, Funnel Analysis, 
+
+👥 Customer segmentation analysis, RFM & CLV
+
+📈 Statistics/Machine Learning: A/B testing, Linear regression, Logistic regression
+
+🐍 Programming with Python: Python, Object-Oriented Programming, Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/oumi-idrissi/), and take a look at the dashboards I’ve published on [Tableau Public](https://public.tableau.com/app/profile/oumi.idrissi/vizzes).

@@ -17,3 +17,5 @@ Skills:
 🐍 Programming with Python: Python, Object-Oriented Programming, Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/oumi-idrissi/), and take a look at the dashboards I’ve published on [Tableau Public](https://public.tableau.com/app/profile/oumi.idrissi/vizzes).
+
+You can find all my Data Analytics projects below ⬇️

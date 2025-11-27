@@ -16,7 +16,7 @@ Skills:
 
 🐍 Programming with Python: Python, Object-Oriented Programming, Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA
 
-➕ Additional Specializations: Risk Analysis, Product Analysis, Marketing Analysis, Financial Analysis, Payment and Monetization Analysis
+➕ Additional Specializations: Credit Risk Analysis, Product Analysis, Marketing Analysis, Financial Analysis, Payment and Monetization Analysis
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/oumi-idrissi/), and take a look at the dashboards I’ve published on [Tableau Public](https://public.tableau.com/app/profile/oumi.idrissi/vizzes).
 
